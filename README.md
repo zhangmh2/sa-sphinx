@@ -10,6 +10,7 @@ sa-sphinx
 是由网友happy兄提供的一个中文分词插件
 其中文词典采用的是xdict. happy兄还在分词方面还有另外一个贡献--php-mmseg,这是php对中文分词的一个扩展库.
 详见:
+
 (1):https://code.google.com/p/sphinx-for-chinese/
 (2):http://www.sphinx-search.com/
 
